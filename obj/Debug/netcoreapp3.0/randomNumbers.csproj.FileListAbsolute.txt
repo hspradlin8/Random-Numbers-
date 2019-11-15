@@ -1,0 +1,11 @@
+/Users/Heidi/workspace/CSharpDemos/randomNumbers/obj/Debug/netcoreapp3.0/randomNumbers.csprojAssemblyReference.cache
+/Users/Heidi/workspace/CSharpDemos/randomNumbers/obj/Debug/netcoreapp3.0/randomNumbers.AssemblyInfoInputs.cache
+/Users/Heidi/workspace/CSharpDemos/randomNumbers/obj/Debug/netcoreapp3.0/randomNumbers.AssemblyInfo.cs
+/Users/Heidi/workspace/CSharpDemos/randomNumbers/bin/Debug/netcoreapp3.0/randomNumbers
+/Users/Heidi/workspace/CSharpDemos/randomNumbers/bin/Debug/netcoreapp3.0/randomNumbers.deps.json
+/Users/Heidi/workspace/CSharpDemos/randomNumbers/bin/Debug/netcoreapp3.0/randomNumbers.runtimeconfig.json
+/Users/Heidi/workspace/CSharpDemos/randomNumbers/bin/Debug/netcoreapp3.0/randomNumbers.runtimeconfig.dev.json
+/Users/Heidi/workspace/CSharpDemos/randomNumbers/bin/Debug/netcoreapp3.0/randomNumbers.dll
+/Users/Heidi/workspace/CSharpDemos/randomNumbers/bin/Debug/netcoreapp3.0/randomNumbers.pdb
+/Users/Heidi/workspace/CSharpDemos/randomNumbers/obj/Debug/netcoreapp3.0/randomNumbers.dll
+/Users/Heidi/workspace/CSharpDemos/randomNumbers/obj/Debug/netcoreapp3.0/randomNumbers.pdb
