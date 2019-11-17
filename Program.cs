@@ -23,7 +23,7 @@ namespace randomNumbers
                 // Print a message to the console indicating whether the index is in the list.
                 if (numbers.Contains(i))
                 {
-                    Console.WriteLine($"numbers list contains {1}");
+                    Console.WriteLine($"numbers list contains {i}");
                 }
                 else
                 {
