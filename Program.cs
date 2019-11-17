@@ -21,13 +21,13 @@ namespace randomNumbers
             {
                 // Determine if the current loop index is contained inside of the `numbers` list. 
                 // Print a message to the console indicating whether the index is in the list.
-                if (numbers[i] == i)
+                if (numbers.Contains(i))
                 {
-                    Console.WriteLine($"{i} is in the list");
+                    Console.WriteLine($"numbers list contains {1}");
                 }
                 else
                 {
-                    Console.WriteLine($"{i} is NOT in the list");
+                    Console.WriteLine($"numbers list does not contain {i}");
                 }
 
             }
